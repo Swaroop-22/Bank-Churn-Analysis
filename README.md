@@ -1,6 +1,4 @@
----
-
-```markdown
+markdown
 # Bank Customer Churn Analysis & Prediction
 
 This repository contains an end-to-end Machine Learning project aimed at predicting bank customer churn. Customer churn occurs when customers stop doing business with an institution. Predicting this allows banks to proactively offer retention strategies to at-risk accounts.
